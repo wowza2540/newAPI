@@ -1,4 +1,6 @@
 {
+  "posts": [
+    {
     "timestamp": 1582094550321,
     "status": true,
     "message": "Success",
@@ -11,3 +13,5 @@
             "department": "สาขาวิชาวิทยาการคอมพิวเตอร์"
       }
   }
+  ]
+}
