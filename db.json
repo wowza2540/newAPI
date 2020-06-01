@@ -1,5 +1,5 @@
 {
-  "student" :{
+  "student" :[{
     "timestamp": 1582094550321,
     "status": true,
     "message": "Success",
@@ -11,5 +11,5 @@
             "faculty": "คณะวิทยาศาสตร์และเทคโนโลยี",
             "department": "สาขาวิชาวิทยาการคอมพิวเตอร์"
       }
-  }
+  }]
 }
